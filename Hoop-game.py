@@ -1,4 +1,4 @@
-#Hope game with loop breaking commands in Python and condition precedence :)
+#Hoop game with loop breaking commands in Python and condition precedence :)
 n = 0
 while n <= 39:
     n += 1
